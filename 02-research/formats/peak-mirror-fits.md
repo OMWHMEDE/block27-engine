@@ -1,7 +1,7 @@
 # BLOCK27PEAK — Mirror fits — LOCKED 2026-10-23
 Refs: refs/peak-01.jpg, peak-02.jpg (text on refs = example only).
 - AI-made mirror selfies (hallway mirror, phone covering face, full outfit visible). Same room/mirror every set.
-- Text typed natively in TikTok: white bold caps, black outline, centre.
+- Text typed MANUALLY in TikTok by HMEDE (never in the ChatGPT image): white bold caps, black outline, centre. Every image prompt ends "no text in image".
 - BLOCK27 speaks (brand voice) — never a fake first-person "I downloaded / I use BLOCK27" (app not out; AI person).
 - Turn on TikTok's AI-generated label.
 - Slide 1 hook, slide 3 CTA (block27.app), then more fits.
