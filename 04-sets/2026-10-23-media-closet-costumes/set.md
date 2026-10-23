@@ -1,12 +1,10 @@
-# block27.media — Closet costumes (Halloween Sat Oct 31)
-Format: media-masked-27. 7 slides. Generic archetypes only, no known characters.
-
-01/07 Outfit: black overcoat, black knit, black trousers, black loafers. Standing still. "HALLOWEEN IS SATURDAY." / "no costume yet." / "Your closet has five."
-02/07 Outfit: camel trench belted, black turtleneck, grey trousers, black boots. Collar up. "THE DETECTIVE." / "a trench and a turtleneck." / "That's the whole costume."
-03/07 Outfit: black leather jacket, white tee, dark straight jeans, black boots. Leaning on a black car door edge. "THE GETAWAY DRIVER." / "leather, white tee, gloves." / "You're already wearing the gloves."
-04/07 Outfit: navy blazer, cream cable knit over shoulders, white trousers, brown loafers. Hands in pockets. "THE HEIR." / "navy, cream, loafers." / "Act like you own a boat."
-05/07 Outfit: black roll neck, black slim trousers, black trainers. Crouched, holding an empty gold picture frame. "THE ART THIEF." / "all black." / "You already have the mask."
-06/07 Outfit: grey suit, white shirt, no tie, black sunglasses. Walking. "THE BODYGUARD." / "one grey suit." / "Stand behind your friends all night."
-07/07 Outfit: black blazer, white tee, grey pleated trousers, black loafers. Walking to camera. "NO COSTUME SHOP." / "just the right pieces." / "AI stylist for the clothes you already own." Above rule: "Join the waitlist · block27.app"
-
-Caption: Which one are you being Saturday? 👇 Waitlist in bio.
+# block27.media — Closet costumes (Halloween Sat Oct 31) — v2 illustrated
+7 slides.
+01/07 Scene: dark dressing room, he stands at an open wardrobe, empty costume-shop bag on floor. Outfit: black overcoat, black trousers, black loafers. Headline: "HALLOWEEN IS SATURDAY"
+02/07 Scene: rainy street at night under a streetlamp. Outfit: belted camel trench collar up, black turtleneck, grey trousers, black boots. Headline: "THE DETECTIVE"
+03/07 Scene: leaning on a dark vintage car in an underground garage. Outfit: black leather jacket, white tee, dark straight jeans, black boots. Headline: "THE GETAWAY DRIVER"
+04/07 Scene: wooden yacht deck at sunset. Outfit: navy blazer, cream cable knit over shoulders, white trousers, brown loafers. Headline: "THE HEIR"
+05/07 Scene: dark gallery, holding an empty gold frame, laser beams. Outfit: black roll neck, black trousers, black trainers. Headline: "THE ART THIEF"
+06/07 Scene: velvet rope outside a club door. Outfit: grey suit, white shirt, no tie, black sunglasses. Headline: "THE BODYGUARD"
+07/07 Scene: back in the dressing room, looking at the mirror, rail of his own clothes behind. Outfit: black blazer, white tee, grey pleated trousers, black loafers. Headline: "YOUR CLOSET ALREADY KNOWS"
+Caption: Which one are you being Saturday? AI stylist for the clothes you already own. 👇 Waitlist in bio.
