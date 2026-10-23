@@ -12,3 +12,9 @@ Score 1–10: trend size, freshness, how natural the bridge is, how easy to make
 | 2026-10-23 | FW26 trends you probably already own (knit stack, suede+denim, half-zip) | FW26 menswear | trend list → check your closet | Notebook page (PEAK) | 7 |
 | 2026-10-23 | Fàbregas touchline style after Como 4-1 | Como 4-1 Man Utd | banter → quiet-money coach style | Celebrity breakdown (TRUTH) | 6 |
 | 2026-10-23 | 2016 fits that are back — rebuilt in 2026 | 2026 is the new 2016 | nostalgia → old pieces in your closet | Fit board (SMOKE) | 6 |
+| 2026-10-23 | PEAK face-off: F1 paddock fits (Mexico GP Oct 30–Nov 1) | F1 Mexico City | paddock walk = drivers' runway | PEAK face-off | 8 |
+| 2026-10-23 | PEAK face-off: NBA Cup opener tunnel fits (Oct 30) | NBA Cup starts | tunnel = runway, team vs team | PEAK face-off | 8 |
+| 2026-10-23 | PEAK face-off: F1 Brazil (Nov 6–8) / Las Vegas (Nov 19–21, night-race fits) | F1 | paddock fits | PEAK face-off | 7 |
+| 2026-10-23 | PEAK face-off: Liverpool vs Man United (Sat Nov 21) | PL derby | rivalry → who dresses better | PEAK face-off | 8 |
+| 2026-10-23 | PEAK face-off: Everton vs Liverpool (Sat Nov 28) | Merseyside derby | rivalry | PEAK face-off | 6 |
+| 2026-10-23 | PEAK face-off: Spurs vs Arsenal (Sat Dec 5) | North London derby | rivalry | PEAK face-off | 8 |
