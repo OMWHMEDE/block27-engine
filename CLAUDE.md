@@ -45,5 +45,5 @@ BLOCK27 — an AI stylist for the clothes you already own. Join the waitlist —
 Caption ends: "👇 Waitlist in bio."
 
 ## Naming
-Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). Other accounts get their own letter when set.
+Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). BLOCK27PEAK = P (#P1…). Other accounts get their own letter when set.
 Folder: `04-sets/<ID>/` e.g. `04-sets/M1/`. First line of set.md: `# #<ID>` — the set is called by its ID only. HMEDE reports results by ID; log by ID in performance.csv.
