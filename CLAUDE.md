@@ -45,4 +45,5 @@ BLOCK27 — an AI stylist for the clothes you already own. Join the waitlist —
 Caption ends: "👇 Waitlist in bio."
 
 ## Naming
-Sets: `04-sets/YYYY-MM-DD-account-slug/` e.g. `04-sets/2026-10-23-truth-koundé/`
+Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). Other accounts get their own letter when set.
+Folder: `04-sets/<ID>-slug/` e.g. `04-sets/M1-closet-costumes/`. First line of set.md: `# #<ID> — …` with the posting date. HMEDE reports results by ID; log by ID in performance.csv.

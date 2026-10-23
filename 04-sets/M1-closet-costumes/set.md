@@ -1,4 +1,4 @@
-# block27.media — Closet costumes (Halloween Sat Oct 31) — v2 illustrated
+# #M1 — block27.media — Closet costumes (Halloween Sat Oct 31) — v2 illustrated
 7 slides.
 01/07 Scene: dark dressing room, he stands at an open wardrobe, empty costume-shop bag on floor. Outfit: black overcoat, black trousers, black loafers. Headline: "HALLOWEEN IS SATURDAY"
 02/07 Scene: rainy street at night under a streetlamp. Outfit: belted camel trench collar up, black turtleneck, grey trousers, black boots. Headline: "THE DETECTIVE"
