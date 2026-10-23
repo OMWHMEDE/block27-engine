@@ -13,6 +13,7 @@ Prompt block:
 - Real pieces only, exact product names + colourways, links given.
 
 ## Rules
+- NO trends on SMOKE (HMEDE, 2026-10-23). Just the fits — evergreen hooks only (anchor piece, colour story, vibe).
 - CTA on slide 3 (account rule, same as TRUTH) — TBC by HMEDE.
 - One fit per slide. Colours in each fit must work together.
 
