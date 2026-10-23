@@ -19,3 +19,7 @@ Figure right. Left: serif "That's BLOCK27's breakdown of [NAME]'s style." rule, 
 - Give HMEDE the exact photo to find: event + date + outfit, so it's a real moment.
 - Write slide 1 statement, 3 callouts (what each piece does, real observation only), tagline, caption.
 - Never name a brand unless confirmed by a source.
+
+## Rule (HMEDE, 2026-10-23)
+CTA is ALWAYS slide 3 — 2 slides after the hook — so everyone sees it before dropping off. Never push the CTA later.
+Optional test: keep CTA on slide 3, add bonus slides after it (another outfit / "rate this fit") for extra swipes. Log which wins.
