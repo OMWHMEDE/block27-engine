@@ -1,45 +1,16 @@
 # #S1
-BLOCK27SMOKE — fit board — trend: cold week. 6 slides, real product photos on grey #5F646B, no text.
+BLOCK27SMOKE — colour-matched fit boards, made in ChatGPT — trend: cold week. 6 slides.
+Pieces unbranded (ChatGPT breaks logos).
 
-## 01 Workwear
-- Carhartt WIP Detroit Jacket black: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+Detroit+Jacket+black
-- Champion Reverse Weave Hoodie grey: https://www.google.com/search?tbm=shop&q=Champion+Reverse+Weave+Hoodie+grey
-- Levi's 501 Original dark wash: https://www.google.com/search?tbm=shop&q=Levi%27s+501+Original+dark+wash
-- Dr. Martens 1460 boots black: https://www.google.com/search?tbm=shop&q=Dr.+Martens+1460+boots+black
-- Carhartt WIP Acrylic Watch Hat: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+Acrylic+Watch+Hat
+Style block (paste once):
+Overhead flat-lay product photo, 4:5 vertical. Plain matte grey background (#5F646B). One full men's streetwear outfit laid out neatly like a styled fit board: outerwear, top, trousers, shoes, plus 1–2 accessories. Pieces slightly overlapping, clean cut-out look, soft studio light, soft shadows, sharp fabric texture. No logos, no brand marks, no people. At the top centre, three small solid colour circles in a row showing the outfit's colours. At the bottom centre, one tiny white label in a clean sans with the colour names separated by " · ". No other text.
 
-## 02 Outdoor
-- Arc'teryx Atom Hoody black: https://www.google.com/search?tbm=shop&q=Arc%27teryx+Atom+Hoody+black
-- Gramicci G-Pant: https://www.google.com/search?tbm=shop&q=Gramicci+G-Pant
-- Salomon XT-6 black: https://www.google.com/search?tbm=shop&q=Salomon+XT-6+black
-- Casio G-Shock DW-5600: https://www.google.com/search?tbm=shop&q=Casio+G-Shock+DW-5600
+01/06 Colours: black · grey · white. Black puffer jacket, grey hoodie, white tee, black straight jeans, white leather sneakers, black beanie.
+02/06 Colours: navy · cream · brown. Navy wool overshirt, cream cable knit, brown corduroy trousers, brown suede boots, silver watch.
+03/06 Colours: olive · black · tan. Olive field jacket, black crewneck sweatshirt, tan cargo trousers, black trail sneakers, black cap.
+04/06 Colours: charcoal · burgundy · black. Charcoal wool coat, burgundy knit, black trousers, black leather Chelsea boots, black leather gloves.
+05/06 Colours: brown · cream · denim. Brown suede jacket, cream hoodie, dark blue straight jeans, cream sneakers, brown leather belt.
+06/06 Colours: grey · navy · white. Grey fleece jacket, navy crewneck, white tee, grey sweatpants, navy-and-white running sneakers.
 
-## 03 Heritage
-- Barbour Bedale wax jacket: https://www.google.com/search?tbm=shop&q=Barbour+Bedale+wax+jacket
-- Ralph Lauren cable knit sweater cream: https://www.google.com/search?tbm=shop&q=Ralph+Lauren+cable+knit+sweater+cream
-- Dickies 874 work pant khaki: https://www.google.com/search?tbm=shop&q=Dickies+874+work+pant+khaki
-- Red Wing Iron Ranger boots: https://www.google.com/search?tbm=shop&q=Red+Wing+Iron+Ranger+boots
-- Timex Weekender watch: https://www.google.com/search?tbm=shop&q=Timex+Weekender+watch
-
-## 04 Clean
-- The North Face 1996 Retro Nuptse Jacket black: https://www.google.com/search?tbm=shop&q=The+North+Face+1996+Retro+Nuptse+Jacket+black
-- Nike Tech Fleece joggers grey: https://www.google.com/search?tbm=shop&q=Nike+Tech+Fleece+joggers+grey
-- Nike Air Force 1 '07 white: https://www.google.com/search?tbm=shop&q=Nike+Air+Force+1+%2707+white
-- Stussy beanie black: https://www.google.com/search?tbm=shop&q=Stussy+beanie+black
-
-## 05 Terrace
-- C.P. Company Goggle Jacket: https://www.google.com/search?tbm=shop&q=C.P.+Company+Goggle+Jacket
-- Stone Island crewneck sweatshirt navy: https://www.google.com/search?tbm=shop&q=Stone+Island+crewneck+sweatshirt+navy
-- Levi's 501 Original light wash: https://www.google.com/search?tbm=shop&q=Levi%27s+501+Original+light+wash
-- Adidas Samba OG: https://www.google.com/search?tbm=shop&q=Adidas+Samba+OG
-
-## 06 Night
-- Schott NYC Perfecto 618 leather jacket: https://www.google.com/search?tbm=shop&q=Schott+NYC+Perfecto+618+leather+jacket
-- Uniqlo merino crew neck sweater black: https://www.google.com/search?tbm=shop&q=Uniqlo+merino+crew+neck+sweater+black
-- Levi's 511 black jeans: https://www.google.com/search?tbm=shop&q=Levi%27s+511+black+jeans
-- Dr. Martens 2976 Chelsea boots: https://www.google.com/search?tbm=shop&q=Dr.+Martens+2976+Chelsea+boots
-- Seiko 5 Sports watch: https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+watch
-
-Caption: cold fits. which one are you wearing first?
-AI stylist for the clothes you already own. 👇 Waitlist in bio.
-Sound: "DIP ON EM" — SouthMemphisHypeman (confident, new-arrivals trend).
+Caption: colours that just work in the cold. which one is yours? You already own half of these. AI stylist for the clothes you already own. 👇 Waitlist in bio.
+Sound: "DIP ON EM" — SouthMemphisHypeman.
