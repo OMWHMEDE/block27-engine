@@ -46,4 +46,4 @@ Caption ends: "👇 Waitlist in bio."
 
 ## Naming
 Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). Other accounts get their own letter when set.
-Folder: `04-sets/<ID>-slug/` e.g. `04-sets/M1-closet-costumes/`. First line of set.md: `# #<ID> — …` with the posting date. HMEDE reports results by ID; log by ID in performance.csv.
+Folder: `04-sets/<ID>/` e.g. `04-sets/M1/`. First line of set.md: `# #<ID>` — the set is called by its ID only. HMEDE reports results by ID; log by ID in performance.csv.
