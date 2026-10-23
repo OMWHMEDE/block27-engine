@@ -8,3 +8,4 @@
 06/07 Scene: velvet rope outside a club door. Outfit: grey suit, white shirt, no tie, black sunglasses. Headline: "THE BODYGUARD"
 07/07 Scene: back in the dressing room, looking at the mirror, rail of his own clothes behind. Outfit: black blazer, white tee, grey pleated trousers, black loafers. Headline: "YOUR CLOSET ALREADY KNOWS"
 Caption: Which one are you being Saturday? AI stylist for the clothes you already own. 👇 Waitlist in bio.
+Sound: "Ramalama (Bang Bang)" — Róisín Murphy (Halloween costume-reveal trend). Check it is in TikTok before posting.

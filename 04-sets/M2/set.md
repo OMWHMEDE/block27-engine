@@ -8,3 +8,4 @@ block27.media — 7 slides — trend: UK cold week. Style: 02-research/formats/m
 06/07 Scene: café window seat, coffee cup. Outfit: charcoal overcoat, cream knit, ecru trousers, brown suede loafers. Headline: "OVER CREAM"
 07/07 Scene: dressing room, mirror, the same coat hanging on a rail of his clothes. Outfit: black knit, grey trousers. Headline: "ONE COAT. FIVE OUTFITS."
 Caption: You own the coat. You just wear it one way. AI stylist for the clothes you already own. 👇 Waitlist in bio.
+Sound: "we fell in love in october" — girl in red (soft seasonal trend).
