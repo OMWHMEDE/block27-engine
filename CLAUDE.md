@@ -26,6 +26,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - `.claude/skills/` one skill per step
 
 ## Standing rules
+- **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
 - **Locked formats:** TRUTH = 02-research/formats/truth-breakdown.md. media = media-masked-27.md. PEAK = peak-mirror-fits.md. SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
 - **Platform:** slideshows go to **TikTok only** (5 accounts). Cartoons are IG only — not this engine's job unless asked.
 - **Views first.** Judge conversion weekly, never per post.
