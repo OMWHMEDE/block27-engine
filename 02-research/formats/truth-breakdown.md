@@ -1,4 +1,4 @@
-# BLOCK27TRUTH — Outfit breakdown (locked 2026-10-23)
+# BLOCK27TRUTH — Outfit breakdown — LOCKED 2026-10-23 (only HMEDE changes it)
 Refs: refs/truth-01..03.png (Bellingham). 3 slides. Text IS in the image.
 HMEDE uploads ONE real photo of the celebrity to ChatGPT (full body, outfit fully visible). ChatGPT cuts him out — never invents the face or the clothes.
 

@@ -26,6 +26,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - `.claude/skills/` one skill per step
 
 ## Standing rules
+- **Locked formats:** TRUTH = 02-research/formats/truth-breakdown.md. media = media-masked-27.md. PEAK = peak-face-off.md. Never change a locked format without HMEDE.
 - **Platform:** slideshows go to **TikTok only** (5 accounts). Cartoons are IG only — not this engine's job unless asked.
 - **Views first.** Judge conversion weekly, never per post.
 - **Facts must be real.** Real dates, names, brands, quotes. If unsure, leave it out. Never invent pieces, quotes or prices.
