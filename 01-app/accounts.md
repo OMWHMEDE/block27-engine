@@ -3,19 +3,18 @@
 Times = GMT = Mauritania = UK time (after clocks go back Oct 25).
 Open the account ~25 min before posting: watch niche, comment on big style accounts, reply to own comments. One account at a time.
 
-## Weekday schedule (v3, 2026-10-23) — 2 posts per account, ~10h apart
-Morning
-- 07:30 PEAK
-- 08:30 NOBS
-- 10:00 SMOKE
-- 12:00 TRUTH
-- 13:00 block27.media
-Evening
-- 18:00 PEAK
-- 19:00 TRUTH (strongest slot)
-- 20:00 NOBS
-- 21:00 SMOKE
-- 22:00 block27.media
+## Daily schedule (v4, 2026-10-23) — HMEDE awake 10:00–04:00 GMT
+- 10:45 PEAK
+- 11:45 NOBS
+- 12:45 SMOKE
+- 13:45 TRUTH
+- 18:00 block27.media
+- 19:15 TRUTH (strongest slot)
+- 20:30 PEAK
+- 21:30 NOBS
+- 22:30 SMOKE
+- 23:45 block27.media
+Free 14:00–17:30 (dead zone) — make images then.
 
 ## Anti-"posting machine" rules
 - Shift each time by a random 5–15 min every day. Never exact on the hour.
@@ -26,9 +25,9 @@ Evening
 - Switch accounts only after finishing (post + reply to first comments).
 - Stay inside the app for a minute after posting; don't post and close.
 
-## Weekend shift
-- Sat: morning posts move to 10:00–12:00; evening 18:00–21:00 is strongest.
-- Sun: morning posts move to 11:00–13:00; Sunday is the softest day for reach.
+## Weekend
+- Sat: same slots; evening is strongest.
+- Sun: softest day; keep slots, don't panic on lower views.
 
 ## Avoid
 - 14:00–17:00 weekdays (lowest engagement).
