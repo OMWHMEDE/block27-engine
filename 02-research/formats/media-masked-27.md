@@ -1,5 +1,5 @@
 # block27.media — "Masked 27" illustrated slideshow (v2, 2026-10-23)
-Reference: HMEDE's slide 01/08 "NOT THE BRAND" (dressing room, mirror).
+Reference: refs/media-01.jpg — slide 01/08 "NOT THE BRAND". LOCKED 2026-10-23.
 Text IS rendered in the image on this account.
 
 ## Locked style block (paste once per ChatGPT chat)
