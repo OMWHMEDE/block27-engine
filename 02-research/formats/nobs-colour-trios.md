@@ -5,7 +5,7 @@ Background everywhere: warm cream #EDE6DA. Masked 27 figure (black balaclava, to
 ## Slides
 1 Cover — huge black geometric bold number, black script-serif italic "Color Trios", bold sans caps line under ("YOU NEED TO DRESS BETTER"). 5 masked figures in a row below, cropped at the shins, each in a different trio.
 2 Stripes — 3 full-width horizontal bands, one per colour, colour name in cream bold geometric sans caps, centred.
-3 CTA — figure on right (waist-up), big black didone serif text stacked on left. (Same text style as ref nobs-text-figure.)
+3 CTA (NOBS only) — figure on right (waist-up), big black didone serif text stacked on left. (Same text style as ref nobs-text-figure.)
 4 Collage — trio 1: 4–5 masked figures + 6–7 flat garments, interleaved on cream, every piece only in the 3 colours.
 5+ Repeat stripes + collage for each next trio.
 
