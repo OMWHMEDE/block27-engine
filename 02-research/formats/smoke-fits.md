@@ -14,7 +14,10 @@ Prompt block:
 
 ## Rules
 - NO trends on SMOKE (HMEDE, 2026-10-23). Just the fits — evergreen hooks only (anchor piece, colour story, vibe).
-- CTA on slide 3 (global rule). SMOKE CTA design: PENDING — HMEDE sending his own (cream serif-figure slide is NOBS only).
+- CTA on slide 3 (global rule). SMOKE CTA = refs/smoke-cta.png.
+## Slide 3 — CTA (ChatGPT)
+"Photoreal fashion studio photo, 4:5 vertical, seamless pure white background, soft even light. One faceless man seated low, crouched on an invisible stool, lower-left, wearing a fitted black balaclava with tonal dark-grey '27' repeat print and black gloves, no skin. Outfit: [same fit as the hook]. He points with one gloved finger up-right at the text. Top, full width: 'YOUR CLOTHES. / MORE OUTFITS.' in huge black high-contrast didone serif caps, two lines. Right side, under it: 'BLOCK27 is an AI stylist / for the clothes you already own.' in clean black sans, two lines. Below: small bold black sans caps 'JOIN THE WAITLIST', under it 'block27.app' in large black didone serif lowercase. Bottom centre: small spaced black sans caps 'BLOCK27.SMOKE'. Text spelled exactly. No other text."
+
 - One fit per slide. Colours in each fit must work together.
 
 ## Daily job (Claude)
