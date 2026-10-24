@@ -10,3 +10,8 @@ Posts under 48h old = early read only.
 
 Claude sends back (short): logged ✓, winner + loser per account with one-line why, max 1 change per account for the next 3 days.
 Claude keeps the next 3 days of sets ready in the repo.
+
+## Report table (one row per set)
+| ID | Posted | Views | Likes | Comments | Saves | Shares | Profile views | Followers + | For You % | Best comment |
+|---|---|---|---|---|---|---|---|---|---|---|
+| #T1 | Oct 24 19:30 | | | | | | | | | |
