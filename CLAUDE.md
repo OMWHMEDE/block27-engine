@@ -48,4 +48,5 @@ Caption ends: "👇 Waitlist in bio."
 
 ## Naming
 Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). BLOCK27PEAK = P (#P1…). BLOCK27TRUTH = T (#T1…). BLOCK27NOBS = N (#N1…). Other accounts get their own letter when set.
+Numbering restarted Oct 24, 2026: every account starts at #1. Pre-restart sets in 04-sets/_archive-pre-restart/.
 Folder: `04-sets/<ID>/` e.g. `04-sets/M1/`. First line of set.md: `# #<ID>` — the set is called by its ID only. HMEDE reports results by ID; log by ID in performance.csv.
