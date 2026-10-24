@@ -3,18 +3,13 @@
 Times = GMT = Mauritania = UK time (after clocks go back Oct 25).
 Open the account ~25 min before posting: watch niche, comment on big style accounts, reply to own comments. One account at a time.
 
-## Daily schedule (v4, 2026-10-23) — HMEDE awake 10:00–04:00 GMT
-- 10:45 PEAK
-- 11:45 NOBS
-- 12:45 SMOKE
-- 13:45 TRUTH
-- 18:00 block27.media
-- 19:15 TRUTH (strongest slot)
-- 20:30 PEAK
-- 21:30 NOBS
-- 22:30 SMOKE
-- 23:45 block27.media
-Free 14:00–17:30 (dead zone) — make images then.
+## Daily schedule (v5, 2026-10-24) — start phase: 1 post per account per day
+- 12:15 NOBS
+- 13:20 SMOKE
+- 18:30 PEAK
+- 19:30 TRUTH (strongest slot)
+- 22:10 block27.media
+Shift each by 5–15 min daily. Leave 30–60 min + warm-up between accounts.
 
 ## Anti-"posting machine" rules
 - Shift each time by a random 5–15 min every day. Never exact on the hour.

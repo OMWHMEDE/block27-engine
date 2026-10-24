@@ -12,7 +12,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 1. **Trend scan** → `02-research/trends/YYYY-MM-DD.md` (skill: trend-scan)
 2. **Daily pack** → one set per account per slot in `04-sets/YYYY-MM-DD-slug/set.md` (skill: daily-pack)
 3. HMEDE generates images in **ChatGPT (Pro, no API)**, types slide text **inside TikTok**, posts.
-4. **Daily at 04:00 GMT** HMEDE reports by set ID. Numbers count for posts from 2 days before (48h); newer posts = early read only. → log + new rules (skill: log-results)
+4. **Every 3 days** HMEDE reports by set ID (first: Oct 26, 2026). See 07-results/report-agreement.md. Posts under 48h = early read only. → log + new rules (skill: log-results)
 5. Before writing anything new: read `07-results/winners.md` and `07-results/failure-log.md`.
 
 ## Folder map
