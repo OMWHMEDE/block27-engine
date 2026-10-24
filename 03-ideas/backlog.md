@@ -18,3 +18,4 @@ Score 1–10: trend size, freshness, how natural the bridge is, how easy to make
 | 2026-10-23 | PEAK face-off: Liverpool vs Man United (Sat Nov 21) | PL derby | rivalry → who dresses better | PEAK face-off | 8 |
 | 2026-10-23 | PEAK face-off: Everton vs Liverpool (Sat Nov 28) | Merseyside derby | rivalry | PEAK face-off | 6 |
 | 2026-10-23 | PEAK face-off: Spurs vs Arsenal (Sat Dec 5) | North London derby | rivalry | PEAK face-off | 8 |
+| 2026-10-24 | Mbappé solo TRUTH breakdown (Dior campaign suit + tux) | Dior ambassador | evergreen | TRUTH | 7 |

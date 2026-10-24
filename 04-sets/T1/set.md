@@ -1,12 +1,13 @@
 # #T1
-TRUTH — Kylian Mbappé — post Oct 24 ~19:30. Trend: El Clásico Sun Oct 25 (Madrid). Format: truth-breakdown.md, 7 slides.
-Verified: Dior ambassador; Dior SS26 campaign (June 2025) — grey suit + striped shirt + tie, and black tuxedo (FashionUnited). Style: clean tailoring, crisp shirting, minimal accessories (A&E).
-Photos: 1/2 = Dior campaign grey suit · 4 = Dior campaign black tuxedo · 5 = one recent off-pitch fit (HMEDE picks, send it → callouts).
-01 MBAPPÉ. / Sunday he plays El Clásico. / Off the pitch, he dresses like this. — Let's break down his style.
-02 WHY THIS LOOK WORKS — 01 ONE COLOUR, ONE MOOD: grey suit, grey-toned shirt. Nothing fights. / 02 THE TIE DOES THE TALKING: stripes on the shirt, plain tie — one pattern only. / 03 FIT OVER LOGOS: no visible branding. The cut is the flex. Tagline: SIMPLE PIECES. THOUGHTFUL COMBINATIONS.
-03 CTA (locked text, name = Mbappé)
-04 THE TUXEDO — 01 BLACK ON BLACK: one colour, zero risk. / 02 NOTHING EXTRA: no pocket square, no noise.
-05 [recent fit — callouts after photo]
-06 THE PATTERN — 01 Tailoring first. 02 One pattern max. 03 Accessories almost invisible.
-07 Clásico weekend. Mbappé or Bellingham — who dresses better? Comment.
-Caption: Mbappé plays El Clásico Sunday. off the pitch he's already won. better than Bellingham? 👇 Waitlist in bio.
+TRUTH — El Clásico style breakdown (whole match) — post Oct 24 ~19:30. Clásico Sun Oct 25, 21:00 CEST. TRUTH layout (purple), 7 slides.
+Players verified in 2026-27 squads. Each: one recent clean off-pitch fit, outfit fully visible.
+01 EL CLÁSICO. / Sunday, Barça vs Madrid. / Forget the score. Who dresses best? — Let's break down the squads.
+02 BELLINGHAM (Madrid) — why it works, 3 callouts
+03 CTA (locked text: "That's BLOCK27's breakdown of El Clásico's style.")
+04 KOUNDÉ (Barça) — 2 callouts (clean fit only, no skirt look)
+05 MBAPPÉ (Madrid) — 2 callouts
+06 RAPHINHA (Barça) — 2 callouts
+07 MADRID OR BARÇA — who wins on style? Comment your pick.
+Callouts written from the photos HMEDE picks.
+Caption: El Clásico is Sunday. style only — Madrid or Barça? 👇 Waitlist in bio.
+Mbappé solo breakdown → backlog.
