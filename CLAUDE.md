@@ -2,9 +2,7 @@
 
 This folder is the brain for BLOCK27's content. Read this file first, every time.
 
-Two engines live here:
-- **TikTok slideshows** — everything below + folders 01–07.
-- **IG cartoons** — `ig-cartoons/` (read `ig-cartoons/README.md`). Skills: cartoon-episode, log-cartoon-results.
+This engine is for **TikTok slideshows** only — everything below + folders 01–07.
 
 **Always write new decisions, rules and results into these files and push** — this is the memory.
 
@@ -34,7 +32,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 ## Standing rules
 - **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
 - **Locked formats:** TRUTH = 02-research/formats/truth-breakdown.md. media = media-masked-27.md. PEAK = peak-mirror-fits.md. SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
-- **Platform:** slideshows go to **TikTok only** (5 accounts). Cartoons go to **IG only** (3 accounts) — see `ig-cartoons/`.
+- **Platform:** slideshows go to **TikTok only** (5 accounts).
 - **Views first.** Judge conversion weekly, never per post.
 - **Facts must be real.** Real dates, names, brands, quotes. If unsure, leave it out. Never invent pieces, quotes or prices.
 - **Real pieces only** for outfit/fit content — give real product links (Google Shopping links are fine), menswear only, famous recognisable brands.
