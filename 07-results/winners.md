@@ -4,3 +4,4 @@
 - Celebrity picks that work: clean, consistent, wearable style (Bellingham, Kendrick Super Bowl, Michael B. Jordan).
 - Fit boards in the niche get massive saves (4k+): @closetinspo, @cjfits.
 - Data: in early 2026 TikTok videos got ~5.6x slideshow views overall — slideshows win on saves, so optimise for saves + shares.
+- media Halloween closet-costumes set (pre-restart, posted Oct 23) went well per HMEDE (early read, no numbers yet) → do part 2 + keep riding live trends on media.

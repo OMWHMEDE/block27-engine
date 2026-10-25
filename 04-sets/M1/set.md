@@ -1,12 +1,12 @@
 # #M1
-media — post Sun Oct 25 ~22:10. 8 slides, CTA slide 3. Format: media-masked-27.md (illustrated).
-01 Scene: dark dressing room, full rail of clothes, he stands staring at it, arms crossed. Outfit: black tee, grey trousers. Headline: "FULL CLOSET. NOTHING TO WEAR."
-02 Scene: same room, clothes thrown on the bed and floor, he sits on the bed edge, head down. Outfit: same. Headline: "YOU'VE SAID IT 100 TIMES"
-03 Scene: he stands at the mirror, phone in gloved hand, screen glowing (screen not visible). Outfit: same. Headline: "BLOCK27 FINDS THE OUTFITS. JOIN THE WAITLIST"
-04 Scene: he holds up a brown leather jacket on a hanger. Outfit: same. Headline: "SAME JACKET"
-05 Scene: in front of the mirror wearing it. Outfit: brown leather jacket, cream knit, grey pleated trousers, black loafers. Headline: "NEW OUTFIT"
-06 Scene: he holds up dark blue jeans folded over his arm. Outfit: black tee, grey trousers. Headline: "SAME JEANS"
-07 Scene: in front of the mirror. Outfit: navy overshirt, white tee, dark jeans, white sneakers. Headline: "NEW OUTFIT"
-08 Scene: he walks out the dressing-room door, light from the hallway. Outfit: brown leather jacket, white tee, dark jeans, black boots. Headline: "YOU NEVER NEEDED MORE CLOTHES"
-Caption: full closet, nothing to wear? it was never the clothes. AI stylist for the clothes you already own. 👇 Waitlist in bio.
-Sound: "white rabbit's bells" — Tomb Gazer
+media — post Sun Oct 25 ~22:10. Trend: Halloween Sat Oct 31 (sequel to the closet-costumes winner). 8 slides, CTA slide 3. Format: media-masked-27.md. Generic archetypes only.
+01 Scene: dressing room, calendar on the wall with "31" circled, he holds an empty costume-shop bag. Outfit: black tee, grey trousers. Headline: "HALLOWEEN IN 6 DAYS. PART 2."
+02 Scene: dark hotel corridor, earpiece wire at the neck. Outfit: black suit, white shirt, black tie, black loafers. Headline: "THE SPY"
+03 Scene: back at the mirror, rail of his own clothes behind. Outfit: black tee, grey trousers. Headline: "YOUR CLOSET HAS THE COSTUME. BLOCK27 FINDS IT."
+04 Scene: airfield at dusk, vintage plane behind. Outfit: brown leather bomber, white tee, olive trousers, aviator sunglasses. Headline: "THE PILOT"
+05 Scene: old library, books stacked. Outfit: brown tweed blazer, cream knit, grey trousers, brown loafers, round glasses. Headline: "THE PROFESSOR"
+06 Scene: smoky back room, card table, low lamp. Outfit: grey double-breasted suit, black shirt, black fedora. Headline: "THE MOB BOSS"
+07 Scene: rooftop at night, city lights. Outfit: black leather jacket, black turtleneck, black trousers, black boots. Headline: "THE VILLAIN"
+08 Scene: back in the dressing room, five outfits hanging on the rail. Outfit: black blazer, white tee, grey trousers. Headline: "NO COSTUME SHOP. JUST YOUR CLOSET."
+Caption: part 2. which one are you being Saturday? AI stylist for the clothes you already own. 👇 Waitlist in bio.
+Sound: "Ramalama (Bang Bang)" — Róisín Murphy
