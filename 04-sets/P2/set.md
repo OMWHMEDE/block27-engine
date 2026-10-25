@@ -1,38 +1,38 @@
 # #P2
-PEAK v2 — post Sun Oct 25 ~18:30. 8 slides.
+PEAK v2 — post Sun Oct 25 ~18:30. 8 slides. Hype streetwear vibe. Labels = exact name/colourway from the store page.
 1 Hook (mirror pic): 5 FITS YOU CAN COPY THIS WEEK
 3 CTA (mirror pic): BLOCK27 BUILDS FITS LIKE THESE FROM THE CLOTHES YOU ALREADY OWN. WAITLIST: BLOCK27.APP
 8 (mirror pic): WHICH FIT ARE YOU COPYING? 1–5
 
 ## Slide 2
-- Barbour / Bedale Wax Jacket / Sage: https://www.google.com/search?tbm=shop&q=Barbour+Bedale+Wax+Jacket+Sage
-- Uniqlo / U Crew Neck T-Shirt / White: https://www.google.com/search?tbm=shop&q=Uniqlo+U+Crew+Neck+T-Shirt+White
-- Levi's / 501 Original / Dark Rinse: https://www.google.com/search?tbm=shop&q=Levi%27s+501+Original+Dark+Rinse
-- New Balance / 990v6 / Grey: https://www.google.com/search?tbm=shop&q=New+Balance+990v6+Grey
+- Corteiz puffer jacket navy: https://www.google.com/search?tbm=shop&q=Corteiz+puffer+jacket+navy
+- Advisry spider web beanie navy: https://www.google.com/search?tbm=shop&q=Advisry+spider+web+beanie+navy
+- Nike vintage track pants black: https://www.google.com/search?tbm=shop&q=Nike+vintage+track+pants+black
+- Asics Gel-Kayano 14 silver: https://www.google.com/search?tbm=shop&q=Asics+Gel-Kayano+14+silver
 
 ## Slide 4
-- The North Face / 1996 Retro Nuptse Jacket / Black: https://www.google.com/search?tbm=shop&q=The+North+Face+1996+Retro+Nuptse+Jacket+Black
-- Nike / Tech Fleece Hoodie / Black: https://www.google.com/search?tbm=shop&q=Nike+Tech+Fleece+Hoodie+Black
-- Carhartt WIP / Single Knee Pant / Black: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+Single+Knee+Pant+Black
-- Salomon / XT-6 / Black: https://www.google.com/search?tbm=shop&q=Salomon+XT-6+Black
+- Supreme spellout track jacket black: https://www.google.com/search?tbm=shop&q=Supreme+spellout+track+jacket+black
+- Supreme spellout track pant green: https://www.google.com/search?tbm=shop&q=Supreme+spellout+track+pant+green
+- Nike Air Max Plus TN black: https://www.google.com/search?tbm=shop&q=Nike+Air+Max+Plus+TN+black
+- Supreme beanie black: https://www.google.com/search?tbm=shop&q=Supreme+beanie+black
 
 ## Slide 5
-- Stüssy / Basic Stüssy Hoodie / Grey Heather: https://www.google.com/search?tbm=shop&q=St%C3%BCssy+Basic+St%C3%BCssy+Hoodie+Grey+Heather
-- Dickies / 874 Work Pant / Black: https://www.google.com/search?tbm=shop&q=Dickies+874+Work+Pant+Black
-- Nike / Air Force 1 '07 / White: https://www.google.com/search?tbm=shop&q=Nike+Air+Force+1+%2707+White
-- Carhartt WIP / Acrylic Watch Hat / Black: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+Acrylic+Watch+Hat+Black
+- AC Milan 1996 Lotto Opel black shirt: https://www.google.com/search?tbm=shop&q=AC+Milan+1996+Lotto+Opel+black+shirt
+- Nike track pants black: https://www.google.com/search?tbm=shop&q=Nike+track+pants+black
+- Adidas Samba OG black white: https://www.google.com/search?tbm=shop&q=Adidas+Samba+OG+black+white
+- Carhartt WIP watch hat black: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+watch+hat+black
 
 ## Slide 6
-- Ralph Lauren / Cable-Knit Cotton Sweater / Cream: https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Cable-Knit+Cotton+Sweater+Cream
-- Levi's / 501 Original / Light Wash: https://www.google.com/search?tbm=shop&q=Levi%27s+501+Original+Light+Wash
-- New Balance / 550 / White Green: https://www.google.com/search?tbm=shop&q=New+Balance+550+White+Green
-- Carhartt WIP / Michigan Coat / Black: https://www.google.com/search?tbm=shop&q=Carhartt+WIP+Michigan+Coat+Black
+- Nike Big Swoosh reversible boa jacket black: https://www.google.com/search?tbm=shop&q=Nike+Big+Swoosh+reversible+boa+jacket+black
+- Nike Tech Fleece joggers black: https://www.google.com/search?tbm=shop&q=Nike+Tech+Fleece+joggers+black
+- Nike Shox TL black: https://www.google.com/search?tbm=shop&q=Nike+Shox+TL+black
+- Stussy beanie black: https://www.google.com/search?tbm=shop&q=Stussy+beanie+black
 
 ## Slide 7
-- Schott NYC / Perfecto 618 / Black: https://www.google.com/search?tbm=shop&q=Schott+NYC+Perfecto+618+Black
-- Uniqlo / Extra Fine Merino Crew Neck Sweater / Black: https://www.google.com/search?tbm=shop&q=Uniqlo+Extra+Fine+Merino+Crew+Neck+Sweater+Black
-- Levi's / 501 Original / Black: https://www.google.com/search?tbm=shop&q=Levi%27s+501+Original+Black
-- Dr. Martens / 1460 Smooth / Black: https://www.google.com/search?tbm=shop&q=Dr.+Martens+1460+Smooth+Black
+- Supreme Vanson Leathers GORE-TEX shell jacket black: https://www.google.com/search?tbm=shop&q=Supreme+Vanson+Leathers+GORE-TEX+shell+jacket+black
+- Corteiz Guerillaz cargos black: https://www.google.com/search?tbm=shop&q=Corteiz+Guerillaz+cargos+black
+- Nike Air Max 95 black: https://www.google.com/search?tbm=shop&q=Nike+Air+Max+95+black
+- Corteiz Alcatraz beanie black: https://www.google.com/search?tbm=shop&q=Corteiz+Alcatraz+beanie+black
 
 Caption: 5 fits you can copy this week. which one first? 👇 Waitlist in bio.
-Sound: "Hello, October" — Tung Tulip
+Sound: "DIP ON EM" — SouthMemphisHypeman
