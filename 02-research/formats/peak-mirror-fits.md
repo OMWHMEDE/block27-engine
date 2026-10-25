@@ -6,3 +6,4 @@ Refs: refs/peak-v2-hook.png (slide 1), refs/peak-v2-fit.png (fit slides).
 - Real pieces only, streetwear staples, exact names + colourways. Claude gives Google Shopping links.
 - Turn on TikTok's AI-generated label.
 - Piece vibe (HMEDE 2026-10-25): hype/UK streetwear, logo-forward — Corteiz, Supreme, Nike, Advisry, vintage football shirts, Stüssy, Trapstar. Refs: refs/peak-vibe/. Not basics/heritage.
+- RULE (HMEDE 2026-10-25): never use the exact reference pieces (refs/peak-vibe) — same TYPE of hype streetwear, different pieces. Never repeat a piece already used in a past PEAK set.
