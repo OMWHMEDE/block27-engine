@@ -1,9 +1,7 @@
-# BLOCK27PEAK — Mirror fits — LOCKED 2026-10-23
-Refs: refs/peak-01.jpg, peak-02.jpg (text on refs = example only).
-- AI-made mirror selfies (hallway mirror, phone covering face, full outfit visible). Same room/mirror every set.
-- Text typed MANUALLY in TikTok by HMEDE (never in the ChatGPT image): white bold caps, black outline, centre. Every image prompt ends "no text in image".
-- BLOCK27 speaks (brand voice) — never a fake first-person "I downloaded / I use BLOCK27" (app not out; AI person).
+# BLOCK27PEAK — Mirror hook + street fits — LOCKED 2026-10-25 (v2)
+Refs: refs/peak-v2-hook.png (slide 1), refs/peak-v2-fit.png (fit slides).
+- Slide 1: AI mirror selfie (hallway mirror, phone over face). Hook text typed manually in TikTok.
+- Slide 3: CTA (mirror pic + CTA text typed in TikTok).
+- Fit slides: candid street photo of a man wearing the fit (top ~70%), cream band below with the 4 real product cut-outs in a row, each labelled BRAND / Product name / Colourway in a clean sans.
+- Real pieces only, streetwear staples, exact names + colourways. Claude gives Google Shopping links.
 - Turn on TikTok's AI-generated label.
-- Slide 1 hook, slide 3 CTA (block27.app), then more fits.
-## Topic rotation (Claude picks daily)
-1 One piece, many fits  2 Small closet, many outfits  3 Colour combos from basics  4 Occasions  5 Rate the fit

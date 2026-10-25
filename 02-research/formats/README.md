@@ -7,4 +7,4 @@
 - BLOCK27NOBS (#N) → nobs-colour-trios.md — colour trios: cover, stripes, collage, serif CTA. Refs: refs/nobs-*.png/jpg
 
 CTA always slide 3 on every account.
-- PEAK: new format coming from HMEDE (2026-10-25) — no PEAK sets until it's locked.
+- PEAK v2 locked 2026-10-25: mirror hook + street fit photo with real product row.
