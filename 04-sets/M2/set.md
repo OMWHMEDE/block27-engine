@@ -1,4 +1,4 @@
-# #M1
+# #M2
 media — post Sun Oct 25 ~22:10. Trend: Halloween Sat Oct 31 (sequel to the closet-costumes winner). 8 slides, CTA slide 3. Format: media-masked-27.md. Generic archetypes only.
 01 Scene: dressing room, calendar on the wall with "31" circled, he holds an empty costume-shop bag. Outfit: black tee, grey trousers. Headline: "HALLOWEEN IN 6 DAYS. PART 2."
 02 Scene: dark hotel corridor, earpiece wire at the neck. Outfit: black suit, white shirt, black tie, black loafers. Headline: "THE SPY"
