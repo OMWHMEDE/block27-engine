@@ -1,4 +1,4 @@
-# #P3
+# #P1 (SZN 2) — was SZN1 #P3, never posted. Post Fri Oct 30 ~18:30.
 #P3 — BLOCK27PEAK — 8 slides
 
 SLIDE 1 (mirror pic) — text: 5 WINTER FITS. NO EXCUSES.
