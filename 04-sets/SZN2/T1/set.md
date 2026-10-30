@@ -1,4 +1,5 @@
 # #T1 (SZN 2)
+NOTE: HMEDE already made the original SZN1 #T3 Leclerc version — posting that as-is. Shorter-text fix applies from the next TRUTH set.
 TRUTH — Charles Leclerc — post Fri Oct 30 ~19:30. Trend: F1 Mexico GP this weekend (Oct 30–Nov 1). Was SZN1 #T3 (never posted).
 SZN 2 TRUTH fix (from SZN1: ~240 views, 0 likes): same purple layout, LESS text (max ~12 words per slide), debate hook, question ending.
 Facts: stylist Carlotta Constant since end 2024, "never felt forced" (Sportskeeda). Own brand CL16, Nov 2025, 12 pieces, 90s-inspired (Esquire ME).
