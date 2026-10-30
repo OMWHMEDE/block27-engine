@@ -54,4 +54,5 @@ Caption ends: "👇 Waitlist in bio."
 Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). BLOCK27PEAK = P (#P1…). BLOCK27TRUTH = T (#T1…). BLOCK27NOBS = N (#N1…). Other accounts get their own letter when set.
 SEASONS (HMEDE, 2026-10-27): work runs in seasons. Season 1 = Oct 24–27 (ends with HMEDE's report). Each report closes a season; next season starts when HMEDE says. Written 'SZN 1', 'SZN 2' (not 'S', which is SMOKE). Set IDs restart at #1 each season; log as SZN2-N1 etc.
 Numbering restarted Oct 24, 2026: every account starts at #1. Pre-restart sets in 04-sets/_archive-pre-restart/.
+SZN 2+ sets live in 04-sets/SZN2/<ID>/.
 Folder: `04-sets/<ID>/` e.g. `04-sets/M1/`. First line of set.md: `# #<ID>` — the set is called by its ID only. HMEDE reports results by ID; log by ID in performance.csv.
