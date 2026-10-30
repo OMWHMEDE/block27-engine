@@ -15,3 +15,6 @@ Claude keeps the next 3 days of sets ready in the repo.
 | ID | Posted | Views | Likes | Comments | Saves | Shares | Profile views | Followers + | For You % | Best comment |
 |---|---|---|---|---|---|---|---|---|---|---|
 | #T1 | Oct 24 19:30 | | | | | | | | | |
+
+## Level-up rule (agreed in principle 2026-10-30)
+After SZN 2: an account goes to 2 posts/day only if (1) all its SZN 2 posts went out on time and (2) its avg views beat SZN 1 avg. Likely candidates: PEAK (~660), SMOKE (~370). Others stay at 1/day.
