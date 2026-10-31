@@ -14,3 +14,4 @@
 - TRUTH: ~240 views, 0 likes on #T1/#T2 → people scroll past. Format change proposed to HMEDE (not applied without OK).
 - NOBS #N1/#N2: 0 views, 0% FYP = no distribution (likely under review / cold account). Check status; warm up before posting.
 - Missed posts (#M2, #P3, #T3) — consistency broke the 3-day test. One post/account/day is the floor.
+- RULE (HMEDE 2026-10-31): don't run the same trend more than 2–3 sets on media (Halloween done 3x). Switch topics.
