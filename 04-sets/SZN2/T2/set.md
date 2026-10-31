@@ -8,6 +8,6 @@ Photos: A (1–3) recent paddock walk-in · B (4) 2019 rookie hoodie look · C (
 03 CTA (locked)
 04 2019: hoodies and team kit.
 05 Now: Dior. Ralph Lauren.
-06 His rule: "wear what feels comfortable."
+06 His rule: wear what feels comfortable. (paraphrase, no quote marks)
 07 He says he's not stylish. Agree? Leclerc or Norris?
 Caption: 2019 rookie in hoodies → Dior campaigns. Mexico GP tomorrow. Leclerc or Norris? 👇 Waitlist in bio.
