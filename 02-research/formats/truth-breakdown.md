@@ -1,4 +1,11 @@
-# BLOCK27TRUTH — Outfit breakdown — LOCKED 2026-10-23 (only HMEDE changes it)
+# BLOCK27TRUTH — Outfit breakdown — v2 LOCKED 2026-11-10 (only HMEDE changes it)
+## v2 (current) — refs/truth-v2-02.png, truth-v2-07.png
+- Keep the REAL photo as the full-bleed background (no purple cut-out). Slight darken/blur behind text for legibility.
+- Huge cream (#F5EFE3) condensed bold sans headline, ALL CAPS, can sit behind/around the figure.
+- Cream serif body. Callouts: big serif number (01/02/03) + serif caps title + short serif line, thin cream curved line ending in a dot on the piece.
+- Top bar: left small spaced cream "BLOCK27TRUTH", thin line, right "0X / 07". Bottom: thin lines either side of a short serif line.
+- Short text only (SZN 2 fix). 7 slides, CTA slide 3, debate ending.
+## v1 (old, purple cut-out) below
 Refs: refs/truth-01..03.png (Bellingham). 3 slides. Text IS in the image.
 HMEDE uploads ONE real photo of the celebrity to ChatGPT (full body, outfit fully visible). ChatGPT cuts him out — never invents the face or the clothes.
 
