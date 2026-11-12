@@ -42,6 +42,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - **Hooks about other people beat hooks about us.** Write 30 hooks, score them, keep the best.
 - **Voice:** talks like a real person posting from their phone. Short, confident. Lowercase allowed on casual accounts.
 - **App entry:** test the app entering on slide 3–4 in first person ("i asked this app to build it from my closet") with a real screenshot, vs the final-slide CTA. Log which wins.
+- **BIG EVENTS (HMEDE, 2026-11-12):** never miss a big event (e.g. GTA 6 launch). Hit it on EVERY account except SMOKE (SMOKE = no trends) — NOBS cover/palette, PEAK duo/fits, TRUTH only if a real celebrity/style moment exists, media story. Not every day — just the big ones. Keep a big-events calendar in 03-ideas/big-events.md.
 - **Trends:** post within 24–48h or drop it. The bridge must feel natural — if forced, drop it. **Never** tragedies, deaths, politics.
 - **Celebrities:** only clean, wearable, consistent style (a real signature across many looks). No costume/"weird" dressers (no Tyler, the Creator / A$AP Rocky / Playboi Carti types). Not one-good-outfit people.
 - **Nothing gets posted without HMEDE's approval.**
