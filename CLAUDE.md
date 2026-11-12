@@ -48,7 +48,8 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 
 ## CTA (pre-launch, end of set)
 BLOCK27 — an AI stylist for the clothes you already own. Join the waitlist — block27.app. You'll know the second it drops.
-Caption ends: "👇 Waitlist in bio."
+Caption ends: "👇 Waitlist in bio." then 4–5 hashtags (different mix every post).
+No sound suggestions — HMEDE picks the sound himself (HMEDE, 2026-11-12).
 
 ## Naming
 Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). BLOCK27PEAK = P (#P1…). BLOCK27TRUTH = T (#T1…). BLOCK27NOBS = N (#N1…). Other accounts get their own letter when set.

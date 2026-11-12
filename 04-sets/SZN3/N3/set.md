@@ -5,4 +5,5 @@ Cover: "4" / "Color Trios" / "FOR THE OFFICE"
 CTA: "Your closet / has the fit. / You just / can't see it. / BLOCK27 can."
 11 Question: "Which one are you / wearing to work? / 1, 2, 3 or 4?"
 Caption: 4 colour trios for the office. which number tomorrow? 👇 Waitlist in bio.
-Sound: "Where To Find Me" — Cedar Creek Kitchen
+
+Hashtags: #menswear #colorpalette #officeoutfit #outfitideas #mensfashion
