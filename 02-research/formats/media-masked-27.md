@@ -8,3 +8,6 @@ Text: one headline per slide inside a cream rounded rectangle near the top, cent
 
 ## Per-slide prompt
 "Same style. Slide NN/NN. Scene: ... Outfit: ... Headline: '...'"
+
+## NOTE 2026-11-14 (after SZN 3)
+media = weakest account (0.3% likes, 0 follows). HMEDE is switching the IMAGE format; topics stay the same. New visual format coming from HMEDE at SZN 4 start. Claude's diagnosis to keep in mind: give a usable payoff each set (list wrapped in a tiny story, like Halloween costumes), soft one-line CTA on slide 3 in story sets.
