@@ -12,3 +12,10 @@ Refs: refs/media-v3/fit-check.png, refs/media-v3/cta.png. Replaces masked-27 ill
 - Pill text: "TRY BLOCK27.APP" only once the app is live; pre-launch → "JOIN THE WAITLIST · BLOCK27.APP".
 ## Daily job (Claude)
 Topic + 1 rule per slide (variable to compare, two labels), CTA, question ending, caption + hashtags.
+
+## Slide types (HMEDE refs, 2026-11-14)
+A ANNOTATED — one mannequin (3/4 or back), up to 6 white rounded label pills joined by thin lines to orange dots on details. refs/media-v3/annotated.png
+B ZOOM — garment on the left, orange rounded frame on the right with a close-up of one detail, 2 labels. refs/media-v3/zoom.png
+C PALETTE — 3 colour circles + names on the left, orange vertical line, seated mannequin on a white block with 3 labels. refs/media-v3/palette.png
+D COMPARISON — two mannequins, one variable (fit-check.png)
+E CTA — refs/media-v3/cta.png (waitlist text pre-launch)
