@@ -21,5 +21,5 @@ After SZN 2: an account goes to 2 posts/day only if (1) all its SZN 2 posts went
 
 
 ## Report table v2 (HMEDE's printed sheet, from SZN 3 — 2026-11-14)
-Columns: ID | VIEWS | AVG WATCH | LIKES | COM | SAVE | SHARE | FOLW | FYP%
+Columns: ID | VIEWS | LIKES | COM | SAVE | SHARE | FOLW | FYP%
 HMEDE fills it on paper and sends a photo. Claude reads it and logs to performance.csv.
