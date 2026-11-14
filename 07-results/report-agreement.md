@@ -18,3 +18,8 @@ Claude keeps the next 3 days of sets ready in the repo.
 
 ## Level-up rule (agreed in principle 2026-10-30)
 After SZN 2: an account goes to 2 posts/day only if (1) all its SZN 2 posts went out on time and (2) its avg views beat SZN 1 avg. Likely candidates: PEAK (~660), SMOKE (~370). Others stay at 1/day.
+
+
+## Report table v2 (HMEDE's printed sheet, from SZN 3 — 2026-11-14)
+Columns: ID | VIEWS | AVG WATCH | LIKES | COM | SAVE | SHARE | FOLW | FYP%
+HMEDE fills it on paper and sends a photo. Claude reads it and logs to performance.csv.
