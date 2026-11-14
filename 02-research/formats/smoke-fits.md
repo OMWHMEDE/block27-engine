@@ -23,3 +23,4 @@ Prompt block:
 ## Daily job (Claude) — HMEDE rule 2026-10-24: give ONLY the set (hook, theme, slide count, caption, sound). Never outfits or pieces — ChatGPT picks them.
 ## (old)
 Hook text, hook-figure prompt, 5–7 real fits (exact names, colourways, Google Shopping links), caption, sound.
+- No slide limit on SMOKE (HMEDE, 2026-11-14) — long fit dumps allowed (e.g. 16 slides).
