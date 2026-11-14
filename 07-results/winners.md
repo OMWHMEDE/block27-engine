@@ -10,3 +10,9 @@
 - PEAK v2 (mirror hook + real pieces) = best format: #P2 723 views, 4 saves. Copyable real pieces get saved.
 - SMOKE broad hook wins: #S1 "FITS THAT WORK EVERY SINGLE TIME" 819 views (best post). Niche hook #S2 "only own black" 229.
 - Avg views/post: PEAK ~660 · SMOKE ~370 · TRUTH ~240 · media ~240 · NOBS ~90 (266 when distributed).
+
+## SZN 3 (Nov 10–12, 2026) — 15/15 posted, ~13.3k views (≈4x SZN 1)
+- #N1 NOBS "4 Color Trios THAT NEVER FAIL": 1393 views, 68 likes, 21 saves, 10 follows — best engagement ever. Broad "never fail" hook.
+- Top views: #T1 TRUTH v2 Michael B. Jordan 1828 · #M1 media Black Friday 1784 — but low likes (10 / 6).
+- Avg views/post: TRUTH ~1140 · media ~1057 · NOBS ~837 · PEAK ~704 · SMOKE ~686.
+- PEAK DUO test (#P3) 708 — in line with PEAK, not a breakout; only comment of the season.

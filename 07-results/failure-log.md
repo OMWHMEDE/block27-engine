@@ -15,3 +15,8 @@
 - NOBS #N1/#N2: 0 views, 0% FYP = no distribution (likely under review / cold account). Check status; warm up before posting.
 - Missed posts (#M2, #P3, #T3) — consistency broke the 3-day test. One post/account/day is the floor.
 - RULE (HMEDE 2026-10-31): don't run the same trend more than 2–3 sets on media (Halloween done 3x). Switch topics.
+
+## SZN 3
+- Comments still ~0 (1 in 15 posts) even with question endings → questions alone aren't enough; need a stronger comment trigger.
+- media: Black Friday (1784) >> Singles' Day (724) / GTA 6 (663). Shopping/closet bridge beat pop-culture bridges.
+- TRUTH + media get views but few likes (~0.5%) → reach without connection.
