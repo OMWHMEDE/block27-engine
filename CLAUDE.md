@@ -31,7 +31,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 
 ## Standing rules
 - **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
-- **Locked formats:** TRUTH = 02-research/formats/truth-breakdown.md. media = media-masked-27.md. PEAK = peak-mirror-fits.md. SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
+- **Locked formats:** TRUTH = 02-research/formats/truth-breakdown.md. media = media-fit-check.md (v3 test from SZN 4; old: media-masked-27.md). PEAK = peak-mirror-fits.md. SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
 - **Platform:** slideshows go to **TikTok only** (5 accounts).
 - **Views first.** Judge conversion weekly, never per post.
 - **Facts must be real.** Real dates, names, brands, quotes. If unsure, leave it out. Never invent pieces, quotes or prices.
