@@ -19,3 +19,4 @@ B ZOOM — garment on the left, orange rounded frame on the right with a close-u
 C PALETTE — 3 colour circles + names on the left, orange vertical line, seated mannequin on a white block with 3 labels. refs/media-v3/palette.png
 D COMPARISON — two mannequins, one variable (fit-check.png)
 E CTA — refs/media-v3/cta.png (waitlist text pre-launch)
+- Slide count varies (HMEDE, 2026-11-14): not always 8 — pick what the topic needs (5–10). CTA still slide 3.
