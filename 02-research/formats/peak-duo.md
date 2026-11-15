@@ -13,4 +13,4 @@ ChatGPT has the format locked as "PEAK DUO FORMAT".
 - CTA (slide 5 from SZN 4): "BLOCK27 BUILDS FITS LIKE THESE." / "FROM THE CLOTHES YOU ALREADY OWN." / 3 phones with REAL app screenshots / black pill "WAITLIST: BLOCK27.APP" / same footer.
 - Order: 01 hook grid 1 · 02 duo 1 · 03 duo 2 · 04 grid 2 · 05 CTA · then duo/grid pairs.
 - Bolder colours than v1 (e.g. neon lime / royal blue).
-- REAL PIECES (HMEDE, 2026-11-15): each grid's outfit = real branded pieces in the duo colours (e.g. Nike Windrunner orange/navy + matching track pants + AF1). Claude gives the real pieces (+ Google Shopping links) per duo. Never repeat pieces across PEAK sets.
+- REAL PIECES (HMEDE, 2026-11-15): grids use real branded pieces, but ChatGPT finds them. Claude gives ONLY the duo colours (+ hex) and the places. No piece lists, no links.
