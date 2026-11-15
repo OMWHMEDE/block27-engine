@@ -1,4 +1,5 @@
 # TRUTH v3 (SZN 4) — ACCESSORIES (HMEDE, 2026-11-15). Celebrity breakdowns dropped.
+AUDIENCE: WOMEN (HMEDE, 2026-11-15) — feminine accessories only. Overrides the "menswear only" rule for TRUTH. Claude finds the real pieces + links.
 Hook: surreal/cinematic aesthetic image + one first-person line. Refs: 02-research/formats/refs/truth-v3/. Inner slide format: TBC by HMEDE.
 Subjects: shoes, watches, bags, sunglasses, belts, jewellery, caps/hats, scarves, gloves, wallets.
 ## Hook bank
