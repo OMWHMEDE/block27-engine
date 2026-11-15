@@ -10,6 +10,6 @@ ChatGPT has the format locked as "PEAK DUO FORMAT".
 ## v2 — SZN 4 test (HMEDE, 2026-11-15). Refs: refs/peak-duo-v2/
 - DUO slide: white bg, two big rounded colour cards stacked, colour name huge bold caps (black on light, white on dark) + hex in a pill. Top-right counter pill "0X/10". Footer: lines + spaced "BLOCK27PEAK" + "Swipe →".
 - GRID slide: 2x2 photoreal Subject 27 in the duo colours, 4 real-looking famous places (Claude picks), no text.
-- CTA (slide 3): "BLOCK27 BUILDS FITS LIKE THESE." / "FROM THE CLOTHES YOU ALREADY OWN." / 3 phones with REAL app screenshots / black pill "WAITLIST: BLOCK27.APP" / same footer.
-- Order: 01 hook grid (text typed in TikTok) · 02 duo 1 · 03 CTA · 04 grid 1 · then duo/grid pairs.
+- CTA (slide 5 from SZN 4): "BLOCK27 BUILDS FITS LIKE THESE." / "FROM THE CLOTHES YOU ALREADY OWN." / 3 phones with REAL app screenshots / black pill "WAITLIST: BLOCK27.APP" / same footer.
+- Order: 01 hook grid 1 · 02 duo 1 · 03 duo 2 · 04 grid 2 · 05 CTA · then duo/grid pairs.
 - Bolder colours than v1 (e.g. neon lime / royal blue).
