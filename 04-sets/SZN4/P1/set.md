@@ -11,3 +11,4 @@ PEAK DUO v2. 9 slides. CTA slide 5 (HMEDE, 2026-11-15).
 09 Grid 4 — NYC SoHo cobblestones · Brooklyn rooftop · Central Park bench · Miami art-deco hotel — TikTok text: "WHICH DUO WOULD YOU WEAR? 1, 2, 3 OR 4?"
 Counter pills: 0X/09.
 Caption: 4 colour duos nobody tries. they all work. which one would you wear? 👇 Waitlist in bio. #colourcombos #fitcheck #mensfashion #outfitinspo #streetstyle
+Made by HMEDE: duo 3 grid used a real Nike Windrunner (orange/navy) + navy track pants + AF1 white. Posted as test for SZN 4.
