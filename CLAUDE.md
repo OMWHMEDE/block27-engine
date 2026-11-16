@@ -30,7 +30,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - `.claude/skills/` one skill per step
 
 ## Standing rules
-- **SZN 4 (HMEDE, 2026-11-16): PEAK + TRUTH PAUSED for the rest of SZN 4** (weak early reads). Only media, SMOKE, NOBS post — 2–3x/day each until SZN 4 ends (HMEDE). Slots GMT: N 12:15 / 17:40 / (23:05) · S 13:20 / 18:45 / (00:10) · M 15:00 / 21:10 / (01:15). Vary ±5–15 min. Revisit at the SZN 4 report.
+- **SZN 4 (HMEDE, 2026-11-16): PEAK + TRUTH PAUSED for the rest of SZN 4** (weak early reads). Only media, SMOKE, NOBS post — 2x/day each until SZN 4 ends (HMEDE 2026-11-16: start with 2; 3rd slot optional later). Slots GMT: N 12:15 / 17:40 / (23:05) · S 13:20 / 18:45 / (00:10) · M 15:00 / 21:10 / (01:15). Vary ±5–15 min. Revisit at the SZN 4 report.
 - **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
 - **Locked formats:** TRUTH = truth-v3-accessories.md (SZN 4 test; old: truth-breakdown.md). media = media-fit-check.md (v3 test from SZN 4; old: media-masked-27.md). PEAK = peak-duo.md v2 (SZN 4 test; fallback peak-mirror-fits.md). SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
 - **Platform:** slideshows go to **TikTok only** (5 accounts).
