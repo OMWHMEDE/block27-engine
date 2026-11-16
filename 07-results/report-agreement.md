@@ -23,3 +23,6 @@ After SZN 2: an account goes to 2 posts/day only if (1) all its SZN 2 posts went
 ## Report table v2 (HMEDE's printed sheet, from SZN 3 — 2026-11-14)
 Columns: ID | VIEWS | LIKES | COM | SAVE | SHARE | FOLW | FYP%
 HMEDE fills it on paper and sends a photo. Claude reads it and logs to performance.csv.
+
+## Threads test (HMEDE, 2026-11-16)
+SZN 4 days 2–3: same sets cross-posted to Threads. Report Threads views/likes by ID next to TikTok (e.g. SZN4-N2 TH). Compare platforms at the SZN 4 report.
