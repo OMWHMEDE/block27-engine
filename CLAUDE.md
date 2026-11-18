@@ -30,7 +30,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - `.claude/skills/` one skill per step
 
 ## Standing rules
-- **Resumed (HMEDE, 2026-11-18):** pause over. No report for now. SMOKE, NOBS, media = 1 post/day each. Slots GMT: N 12:15 · S 13:20 · M 21:10 (±5–15 min).
+- **SZN 5 (HMEDE, 2026-11-18):** pause over, new season, IDs restart at #1. SMOKE, NOBS, media = 1 post/day each. Slots GMT: N 12:15 · S 13:20 · M 21:10 (±5–15 min).
 - **SZN 4 (HMEDE, 2026-11-16): PEAK + TRUTH PAUSED for the rest of SZN 4** (weak early reads). Only media, SMOKE, NOBS post (2x/day tried Nov 16; back to 1x/day from Nov 18). Revisit at the SZN 4 report.
 - **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
 - **Locked formats:** TRUTH = truth-v3-accessories.md (SZN 4 test; old: truth-breakdown.md). media = media-fit-check.md (v3 test from SZN 4; old: media-masked-27.md). PEAK = peak-duo.md v2 (SZN 4 test; fallback peak-mirror-fits.md). SMOKE = smoke-fits.md. NOBS = nobs-colour-trios.md. Never change a locked format without HMEDE.
@@ -58,5 +58,5 @@ No sound suggestions — HMEDE picks the sound himself (HMEDE, 2026-11-12).
 Every set gets an ID: account letter + running number, never reused. block27.media = M (#M1, #M2…). BLOCK27SMOKE = S (#S1…). BLOCK27PEAK = P (#P1…). BLOCK27TRUTH = T (#T1…). BLOCK27NOBS = N (#N1…). Other accounts get their own letter when set.
 SEASONS (HMEDE, 2026-10-27): work runs in seasons. Season 1 = Oct 24–27 (ends with HMEDE's report). Each report closes a season; next season starts when HMEDE says. Written 'SZN 1', 'SZN 2' (not 'S', which is SMOKE). Set IDs restart at #1 each season; log as SZN2-N1 etc.
 Numbering restarted Oct 24, 2026: every account starts at #1. Pre-restart sets in 04-sets/_archive-pre-restart/.
-SZN 2+ sets live in 04-sets/SZN<n>/<ID>/. SZN 2 ended Nov 2 without a report (on hold). SZN 3 started Nov 10, 2026.
+SZN 2+ sets live in 04-sets/SZN<n>/<ID>/. SZN 2 ended Nov 2 without a report (on hold). SZN 3 started Nov 10, 2026. SZN 4 = Nov 15–17, closed without a report. SZN 5 started Nov 18, 2026 (SMOKE, NOBS, media only, 1/day each).
 Folder: `04-sets/<ID>/` e.g. `04-sets/M1/`. First line of set.md: `# #<ID>` — the set is called by its ID only. HMEDE reports results by ID; log by ID in performance.csv.
