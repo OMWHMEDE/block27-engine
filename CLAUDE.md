@@ -30,6 +30,7 @@ HMEDE, solo founder. English only. **Keep every reply short** — he will not re
 - `.claude/skills/` one skill per step
 
 ## Standing rules
+- **ALL TikTok slideshows PAUSED (HMEDE, 2026-11-18 18:55)** — media M1 not posted either. HMEDE is considering cartoons for TikTok instead. Write nothing new until he says.
 - **SZN 5 (HMEDE, 2026-11-18):** pause over, new season, IDs restart at #1. SMOKE, NOBS, media = 1 post/day each. Slots GMT (HMEDE 2026-11-18): N 14:00 · S 18:00 · M 21:30 (±5–15 min).
 - **SZN 4 (HMEDE, 2026-11-16): PEAK + TRUTH PAUSED for the rest of SZN 4** (weak early reads). Only media, SMOKE, NOBS post (2x/day tried Nov 16; back to 1x/day from Nov 18). Revisit at the SZN 4 report.
 - **CTA position (all accounts):** ALWAYS slide 3 — 2 slides after the hook. Content continues after it.
