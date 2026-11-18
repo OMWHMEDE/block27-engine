@@ -16,3 +16,4 @@
 - Top views: #T1 TRUTH v2 Michael B. Jordan 1828 · #M1 media Black Friday 1784 — but low likes (10 / 6).
 - Avg views/post: TRUTH ~1140 · media ~1057 · NOBS ~837 · PEAK ~704 · SMOKE ~686.
 - PEAK DUO test (#P3) 708 — in line with PEAK, not a breakout; only comment of the season.
+- Delivery (HMEDE 2026-11-18): give each set as ONE copy-paste block for ChatGPT + caption separate.
