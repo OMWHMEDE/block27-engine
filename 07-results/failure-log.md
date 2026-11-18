@@ -20,3 +20,4 @@
 - Comments still ~0 (1 in 15 posts) even with question endings → questions alone aren't enough; need a stronger comment trigger.
 - media: Black Friday (1784) >> Singles' Day (724) / GTA 6 (663). Shopping/closet bridge beat pop-culture bridges.
 - TRUTH + media get views but few likes (~0.5%) → reach without connection.
+- NOBS: no 'girls notice/love' hooks (HMEDE 2026-11-18). Stick to broad useful hooks.
