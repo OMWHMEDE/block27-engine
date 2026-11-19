@@ -4,6 +4,8 @@ This folder is the brain for BLOCK27's content. Read this file first, every time
 
 This engine is for **TikTok slideshows** only — everything below + folders 01–07.
 
+**DROPPED (HMEDE, Nov 19 2026): TikTok slideshows are stopped. Engine is archived — no new sets. Focus moved to the IG cartoon engine (block27-cartoons).**
+
 **Always write new decisions, rules and results into these files and push** — this is the memory.
 
 ## What BLOCK27 is
